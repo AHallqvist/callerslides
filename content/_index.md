@@ -12,26 +12,16 @@ Hur vi slutade oroa oss och älska robotrösten.
 [{{< svg fa-github >}}Github](https://github.com/AHallqvist/callerslides)
 
 ---
-<!-- : .aligncenter -->
+<!-- : .aligncenter . size-40 -->
 
-## Slide Attributes
+## Problemet
 
-Assign attributes to a slide by using the following notation.
+Vi kunde jobba på med lägre prioriterade uppgifter 
+utan att vara medvetna om att det fanns kritiska incidenter.
 
-~~~
-Apa toa
-~~~
+- {{< gallery title="Problemet" href="https://webslides.tv/demos/interviews" src="images/firedog.png" >}}Problemet in action{{< /gallery >}}
+{ .flexblock .gallery }
 
----
-<!-- : .wrap bg=bg-gradient-h -->
-
-### **Tack för mig**
-För att se presentationen:
-{.text-intro}
-
-~~~
-http://callerslides.hallqvist.win
-~~~
 ---
 <!--: .wrap -->
 
@@ -41,6 +31,17 @@ Here's what you can do with [WebSlides](https://webslides.tv).
 - {{< gallery title="Why WebSlides" href="#slide=10" src="https://webslides.tv/static/images/demos-why.png" >}}Why WebSlides{{< /gallery >}}
 - {{< gallery title="Keynote" href="https://webslides.tv/demos/apple" src="https://webslides.tv/static/images/demos-apple.png" >}}Keynote{{< /gallery >}}
 { .flexblock .gallery }
+
+---
+<!-- : .wrap bg=bg-gradient-h -->
+
+### **Tack för mig**
+För att se presentationen:
+{.text-intro}
+
+~~~
+https://callerslides.ninjagymnasiet.se/
+~~~
 
 ---
 <!--: .wrap -->
