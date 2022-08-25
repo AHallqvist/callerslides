@@ -1,3 +1,31 @@
 baseURL = 'http://callerslides.ninjagymnasiet.se/'
 languageCode = 'en-us'
 title = 'Presentation'
+theme = 'hugo-webslides'
+disableKinds = ["sitemap", "RSS"]
+tags = ["slide", "presentation", "responsive", "landing page"]
+features = ["webslides.js", "pre-made template", "shortcodes"]
+
+[params]
+  author = "AHallqvist"
+
+[params.webslides]
+  banner = false
+  slideshow = true
+  vertical = false
+  autoslide = false
+  changeOnClick = false
+  disableLoop = false
+  minWheelDelta = 40
+  disableNavigateOnScroll = false
+  scrollWait = 450
+  slideOffset = 50
+  hideIndex = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+    [markup.goldmark.renderer]
+      unsafe = true

@@ -1,26 +1,44 @@
 +++
 title = "Hugo-Webslides"
 +++
-<!--: .wrap .size-70 ..aligncenter bgimage=images/pencil.jpg -->
+<!--: .wrap .size-70 ..aligncenter bg=bg-black bgimage=images/natt.jpg -->
 
 
-## **Hugo-Webslides**
+## **"Det finns ett ärende med status kritikal"**
 
-Use markdown to write contents and render with [**WebSlides**](https://webslides.tv) to HTML.
+Hur vi slutade oroa oss och älska robotrösten.
 { .text-intro }
 
-[{{< svg fa-github >}}Github](https://github.com/RCJacH/hugo-webslides)
+[{{< svg fa-github >}}Github](https://github.com/AHallqvist/callerslides)
 
 ---
+<!-- : .aligncenter -->
 
+## Slide Attributes
+
+Assign attributes to a slide by using the following notation.
+
+~~~
+Apa toa
+~~~
+
+---
+<!-- : .wrap bg=bg-gradient-h -->
+
+### **Tack för mig**
+För att se presentationen:
+{.text-intro}
+
+~~~
+http://callerslides.hallqvist.win
+~~~
+---
 <!--: .wrap -->
 
 ## **WebSlides Demos**
 Here's what you can do with [WebSlides](https://webslides.tv).
 
 - {{< gallery title="Why WebSlides" href="#slide=10" src="https://webslides.tv/static/images/demos-why.png" >}}Why WebSlides{{< /gallery >}}
-- {{< gallery title="Landings" href="https://webslides.tv/demos/landings" src="https://webslides.tv/static/images/demos-landings.png" >}}Landings{{< /gallery >}}
-- {{< gallery title="Portfolios" href="https://webslides.tv/demos/portfolios" src="https://webslides.tv/static/images/demos-portfolios.png" >}}Portfolios{{< /gallery >}}
 - {{< gallery title="Keynote" href="https://webslides.tv/demos/apple" src="https://webslides.tv/static/images/demos-apple.png" >}}Keynote{{< /gallery >}}
 { .flexblock .gallery }
 
